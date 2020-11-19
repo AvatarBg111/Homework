@@ -1,4 +1,0 @@
-@ECHO OFF
-set \a hello=how are you
-echo %hello%
-pause
