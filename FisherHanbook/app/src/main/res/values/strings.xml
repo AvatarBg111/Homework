@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Smart Electricity Meter</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Smart Electricity Meter</string>
+    <string name="nav_header_subtitle">team C--</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Настройки</string>
+    <string name="preference_category_1">Екран</string>
+    <string name="main_text_size">Размер на основния текст</string>
+    <string name="button_welcome">Welcome</string>
+
+    <string name="menu_project">Проект</string>
+    <string name="menu_resources">Ресурси</string>
+    <string name="menu_directory">Справочник</string>
+    <string name="menu_about">За нас</string>
+    <string name="menu_slideshow">За нас</string>
+    <string name="open_drawer">Open navigation drawer</string>
+    <string name="close_drawer">Close navigation drawer</string>
+
+    <string name="idea">    Решихме да създадем smart платформа, която да ни дава пълна информация
+        за използваната електроенергия на мястото, където сме я вградили. Тя трябва да може да определя
+        вида на консуматора, количеството и времето на потребление; да има база на данните и възможности
+        за визуализацията им.     </string>
+    <string name="description">още няма текст</string>
+    <string name="realization">още няма текст</string>
+    <string name="performance">още няма текст</string>
+
+    <string name="technologies">още няма текст</string>
+    <string name="languages">още няма текст</string>
+    <string name="programs">още няма текст</string>
+
+    <string name="stm32f407">още няма текст</string>
+    <string name="mcp39f511">още няма текст</string>
+    <string name="esp32">още няма текст</string>
+    <string name="https">още няма текст</string>
+
+    <string name="team">още няма текст</string>
+    <string name="activities">още няма текст</string>
+    <string name="readiness">още няма текст</string>
+</resources>
