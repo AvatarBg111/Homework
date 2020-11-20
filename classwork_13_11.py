@@ -66,6 +66,7 @@ print("Square rooting: ", square_root_times, " times square rooted")
 #///ex.4///
 print("////Ex.4\\\\\n")
 even_nums_list = []
+sbor = 0
 num = (int)(input("Type in a number: "))
 for i in range(2, (num + 1), 1):
   if is_even(i):    
