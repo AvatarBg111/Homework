@@ -68,5 +68,7 @@ print("////Ex.4\\\\\n")
 even_nums_list = []
 num = (int)(input("Type in a number: "))
 for i in range(2, (num + 1), 1):
-  if is_even(i): even_nums_list.append(i)
-print(even_nums_list)
+  if is_even(i):    
+    even_nums_list.append(i)
+    sbor += i
+print(even_nums_list, f"\n\nThe collection: {sbor}")
